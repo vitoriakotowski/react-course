@@ -1,0 +1,10 @@
+.phraseContainer {
+    background-color: aqua;
+    border: 1px solid #123412;
+}
+
+.phraseContent {
+    color: aliceblue;
+    background-color: chocolate;
+    margin: 0;
+}
